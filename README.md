@@ -13,3 +13,9 @@ The idea of this example, is to implement Slack's sticky headers !
 ![result](002_animated_size_switcher/result.gif)
 
 The idea of this example, is a container which size and content is animated implicitely.
+
+# 003 - *Vector Graphics*
+
+![result](003_vector_graphics/result.png)
+
+Show various ways to render vector graphics.
